@@ -1,8 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@300&display=swap");
 .navlogo img {
   width: 80%;
 }
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Overpass", sans-serif;
   background: linear-gradient(to right, rgb(65, 211, 255), rgb(235, 220, 217));
 }
 .container {
