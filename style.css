@@ -131,7 +131,7 @@ footer {
   background: #f14e0d;
 }
 .form {
-  color: dodgerblue;
+  color: rgb(0, 116, 231);
 }
 .form h1 {
   color: whitesmoke;
@@ -142,4 +142,15 @@ footer {
 .card-img-top2 {
   margin-left: 40px;
   width: 80%;
+}
+@media (max-width: 700px) {
+  .catsec1 {
+    width: 20rem;
+    margin-left: 90px;
+    margin-bottom: 20px;
+  }
+  .catsec2 {
+    width: 20rem;
+    margin-left: 30px;
+  }
 }
